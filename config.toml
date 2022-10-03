@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'sveniboy1.github.io/nxt-dokumentation'
 languageCode = 'en-us'
 title = 'NXT-Dokumentation'
 theme = 'shadocs'
