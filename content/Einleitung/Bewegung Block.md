@@ -22,13 +22,17 @@ Der Roboter hat zur Bewegung bis zu 3 Motoren die durch A, B und C gegenzeichnet
 
 ## Port:
 
-![Port.png](/static/head.png)
+![Port.png](/images/nxt-images/Kapitel%201%20Allgemeine%20Bl%C3%B6cke/1.1%20Bewegungs/Port.png)
+
+
+
+
 
 Der Port gibt an welcher der Motoren angesteuert wird. Ihr könnt also alle Motoren gleichzeitig ansteuern oder einen individuell. Die Motoren mit einem Häkchen sind die, die angesteuert werden.
 
 ## Richtung:
 
-![Richtung.png](https://files.nuclino.com/files/bcffcfff-4745-48ff-9c4c-a8375124fdf6/Richtung.png)
+![Richtung.png](/images/nxt-images/Kapitel%201%20Allgemeine%20Bl%C3%B6cke/1.1%20Bewegungs/Richtung.png)
 
 Richtung macht genau, was man vermuten würde.
 
@@ -40,19 +44,19 @@ Richtung macht genau, was man vermuten würde.
 
 ## Lenkung:
 
-![Lenkung.png](https://files.nuclino.com/files/4e02c603-390f-4a44-a4e5-ff44386c9281/Lenkung.png)
+![Lenkung.png](/images/nxt-images/Kapitel%201%20Allgemeine%20Bl%C3%B6cke/1.1%20Bewegungs/Lenkung.png)
 
 Mit der Lenkung könnt ihr die Richtung angeben, in die der Roboter fahren soll. Die Verschiebung des Reglers nach links und rechts gibt an wie stark der Roboter sich drehen soll. Komplett nach links oder rechts verschoben dreht sich der Roboter im Kreis.
 
 ## Leistung:
 
-![Leistung.png](https://files.nuclino.com/files/1ce013ba-683b-4e4e-be8e-d50d3b2eabfa/Leistung.png)
+![Leistung.png](/images/nxt-images/Kapitel%201%20Allgemeine%20Bl%C3%B6cke/1.1%20Bewegungs/Leistung.png.png)
 
 Die Leistung gibt Prozentual an wie schnell sich die Motoren drehen. Ihr könnt die Geschwindigkeit zwischen **0-100%** einstellen. Es braucht allerdings eine Mindestleistung, damit sich der Roboter bewegen kann.
 
 ## Dauer:
 
-![Dauer.png](https://files.nuclino.com/files/9cc1be48-a460-4bd0-92a2-f9e5488eb872/Dauer.png)
+![Dauer.png](/images/nxt-images/Kapitel%201%20Allgemeine%20Bl%C3%B6cke/1.1%20Bewegungs/Dauer.png)
 
 Die Dauer gibt an wie lange der Roboter den Bewegungs-Block ausführt. Dafür gibt es verschiedene Optionen.
 
@@ -74,7 +78,7 @@ Die Motoren drehen sich für die Anzahl der angegebenen Sekunden.
 
 ## Nächste Aktion:
 
-![Nächste_Aktion.png](https://files.nuclino.com/files/761c4243-a859-4a35-aa64-a8605eea2a30/Nächste_Aktion.png)
+![Nächste_Aktion.png](/images/nxt-images/Kapitel%201%20Allgemeine%20Bl%C3%B6cke/1.1%20Bewegungs/Nächste_Aktion.png)
 
 Nächste Aktion gibt an was nach dem die Dauer abgelaufen ist passieren soll.
 
