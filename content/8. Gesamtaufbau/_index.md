@@ -2,7 +2,7 @@
 weight: 4006
 title: "Übersicht"
 description: ""
-titleIcon: "fa-solid fa-cubes"
+titleIcon: "fa-solid fa-map"
 categories: ["Großer_Funktionsumfang_Blöcke"]
 tags: [""]
 ---
