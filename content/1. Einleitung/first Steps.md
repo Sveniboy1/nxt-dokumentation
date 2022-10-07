@@ -1,6 +1,6 @@
 ---
 weight: 5000
-title: "Thridparties imports"
+title: ""
 description: "How to manage the import of external libraries or thirdparties code?"
 titleIcon: "fa-solid fa-right-to-bracket fa-rotate-90"
 categories: ["Einleitung"]

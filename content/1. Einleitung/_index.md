@@ -1,5 +1,5 @@
 ---
-weight: 3000
+weight: 2000
 title: "Einleitung"
 description: "Descriptions and examples of the theme functionalities."
 titleIcon: "fa-solid fa-cubes"
