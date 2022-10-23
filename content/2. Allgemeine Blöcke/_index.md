@@ -10,3 +10,7 @@ tags: [""]
 # Allgemeine Blöcke
 Sie stellen die am häufigsten benötigten und benutzen Blöcke dar
 
+{{< treeview
+    rootpath="/2. Allgemeine Blöcke"
+    display="tree"
+/>}}
