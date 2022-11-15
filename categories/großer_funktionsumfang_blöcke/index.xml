@@ -13,7 +13,7 @@ Beschreibung # Input / Output # Bild Datentyp Input / Output Name Beschreibung Z
 Beschreibung # Funktionen # Port # Unter Port: kann zwischen den Motoren A, B und C gewählt werden. Motor A, B und C entsprechen den Anschlüssen A, B und C am Roboter. Die ausgewählten Motoren werden gestoppt und alle Befehle/Messungen zurückgesetzt.
 Input / Output # Bild Datentyp Input / Output Name Beschreibung Logikwert Input A zurücksetzen In Arbeit Logikwert Input B zurücksetzen In Arbeit Logikwert Input C zurücksetzen In Arbeit</description></item><item><title>Start von Datenaufzeichnung</title><link>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke/7.-start-von-datenaufzeichnung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke/7.-start-von-datenaufzeichnung.html</guid><description> Beschreibung # Funktionen # Input/s # Output/s #</description></item><item><title>Ende von Datenaufzeichnung</title><link>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke/8.-ende-von-datenaufzeichnung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke/8.-ende-von-datenaufzeichnung.html</guid><description> Beschreibung # Funktionen # Input/s # Output/s #</description></item><item><title>Logiksignal</title><link>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke/9.-bluetooth-verbindung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke/9.-bluetooth-verbindung.html</guid><description> Beschreibung # Funktionen # Input/s # Output/s #</description></item><item><title>Großer Funktionsumfang Blöcke</title><link>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7.-gro%C3%9Fer-funktionsumfang-bl%C3%B6cke.html</guid><description>Alles über NXT # hier finden sie alle informationen</description></item><item><title>Übersicht</title><link>/8.-gesamtaufbau.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/8.-gesamtaufbau.html</guid><description>NXT-Dokumentation
 Einleitung
-No description available
+Datentypen
 Allgemeine Blöcke
 Bewegung
 Aufnahme/Abspielen
@@ -61,4 +61,5 @@ Text
 Lebenserhaltung
 Dateizugriff
 Kalibrieren
-Motor zurücksetzen</description></item></channel></rss>
+Motor zurücksetzen
+Start von Datenaufzeichnung</description></item></channel></rss>
