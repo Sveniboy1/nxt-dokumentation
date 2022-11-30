@@ -7,3 +7,11 @@ categories: ["Einleitung"]
 tags: ["Content management"]
 ---
 
+# Einleitung
+
+Ihr kommt bald was hin.
+
+{{< treeview
+    rootpath="/1. Einleitung"
+    display="tree"
+/>}}
