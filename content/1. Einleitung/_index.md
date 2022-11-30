@@ -7,6 +7,3 @@ categories: ["Einleitung"]
 tags: ["Content management"]
 ---
 
-# Alles über NXT
-hier finden sie alle informationen
-
