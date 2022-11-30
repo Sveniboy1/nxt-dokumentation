@@ -12,3 +12,5 @@ Willkommen auf NXT-Docs. Dies ist eine Website, welche ich für die Lego Roboter
 Erstellt wurde die Webiste mit [Hugo](https://gohugo.io/) und [Shadocs](https://shadocs.netlify.app/). Ich habe die Seite im Grunde nur mit Inhalt gefüllt.
 
 Alle Rechte über die Bilder der Software etc. sind natürlich eigentum von Lego und nicht von mir.
+
+Wenn ihr mich erreichen wollt dann könnt ihr auf Github ein issue erstellen. https://github.com/Sveniboy1/nxt-dokumentation/issues
