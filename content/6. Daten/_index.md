@@ -7,6 +7,9 @@ categories: ["Daten_Blöcke"]
 tags: [""]
 ---
 
-# Alles über NXT
-hier finden sie alle informationen
+# Daten-Blöcke
 
+{{< treeview
+    rootpath="/6. Daten"
+    display="tree"
+/>}}

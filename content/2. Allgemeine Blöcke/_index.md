@@ -7,8 +7,7 @@ categories: ["Allgemeine_Blöcke"]
 tags: [""]
 ---
 
-# Allgemeine Blöcke
-Sie stellen die am häufigsten benötigten und benutzen Blöcke dar
+# Allgemein-Blöcke
 
 {{< treeview
     rootpath="/2. Allgemeine Blöcke"

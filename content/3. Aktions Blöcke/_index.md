@@ -7,6 +7,9 @@ categories: ["Aktions_Blöcke"]
 tags: [""]
 ---
 
-# Alles über NXT
-hier finden sie alle informationen
+# Aktion-Blöcke
 
+{{< treeview
+    rootpath="/3. Aktions Blöcke"
+    display="tree"
+/>}}

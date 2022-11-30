@@ -7,5 +7,9 @@ categories: ["Großer_Funktionsumfang_Blöcke"]
 tags: [""]
 ---
 
-# Alles über NXT
-hier finden sie alle informationen
+# Großer-Funktionsumfang-Blöcke
+
+{{< treeview
+    rootpath="/7. Großer Funktionsumfang Blöcke"
+    display="tree"
+/>}}

@@ -7,6 +7,9 @@ categories: ["Sensor Blöcke"]
 tags: [""]
 ---
 
-# Alles über NXT
-hier finden sie alle informationen
+# Sensor-Blöcke
 
+{{< treeview
+    rootpath="/4. Sensor Blöcke"
+    display="tree"
+/>}}
