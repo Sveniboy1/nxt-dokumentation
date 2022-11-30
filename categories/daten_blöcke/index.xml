@@ -21,4 +21,11 @@ Zum Beispiel bei Minimum = 20 und Maximum = 30 wird die Zufallszahl eine Zahl zw
 Beschreibung # Funktionen # Datentyp: # Unter Datentyp: kann zwischen Logiksignal, Zahl und Text gewählt werden.
 Wert: # Unter Wert: kann ein dem Datentypen entsprechender Wert eingegeben werden, welcher zum Output wird.
 Name: # Unter Name: kann ein Name für den Block bestimmt werden, der auf dem Block unten Links angezeigt wird. Ist der Name zu lang wird er durch &amp;hellip; weitergeführt.
-Input / Output # Bild Datentyp Input / Output Name Beschreibung Logikwert Output Wert In Arbeit Zahl Output Wert In Arbeit Text Output Wert In Arbeit</description></item><item><title>Daten Blöcke</title><link>/6.-daten.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/6.-daten.html</guid><description>Alles über NXT # hier finden sie alle informationen</description></item></channel></rss>
+Input / Output # Bild Datentyp Input / Output Name Beschreibung Logikwert Output Wert In Arbeit Zahl Output Wert In Arbeit Text Output Wert In Arbeit</description></item><item><title>Daten Blöcke</title><link>/6.-daten.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/6.-daten.html</guid><description>Daten-Blöcke # Daten Blöcke
+Logiksignal
+Mathe
+Vergleichen
+Bereich
+Zufall
+Variable
+Konstant</description></item></channel></rss>
