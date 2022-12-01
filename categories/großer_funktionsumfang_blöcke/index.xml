@@ -22,6 +22,7 @@ Start von Datenaufzeichnung
 Ende von Datenaufzeichnung
 Logiksignal</description></item><item><title>Übersicht</title><link>/8.-gesamtaufbau.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/8.-gesamtaufbau.html</guid><description>NXT-Dokumentation
 Einleitung
+Erstes Programm
 Datentypen
 Allgemeine Blöcke
 Bewegung
@@ -70,5 +71,4 @@ Text
 Lebenserhaltung
 Dateizugriff
 Kalibrieren
-Motor zurücksetzen
-Start von Datenaufzeichnung</description></item></channel></rss>
+Motor zurücksetzen</description></item></channel></rss>
