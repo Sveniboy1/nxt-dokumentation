@@ -1,5 +1,5 @@
 ---
-weight: 5000
+weight: 3001
 title: "Datentypen"
 description: ""
 titleIcon: "fa-solid fa-right-to-bracket fa-rotate-90"
