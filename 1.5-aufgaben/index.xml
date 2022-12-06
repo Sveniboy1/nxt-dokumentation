@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aufgaben on NXT-Dokumentation</title><link>/1.5-aufgaben.html</link><description>Recent content in Aufgaben on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/1.5-aufgaben/index.xml" rel="self" type="application/rss+xml"/><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Aufgaben # In Arbeit</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aufgaben on NXT-Dokumentation</title><link>/1.5-aufgaben.html</link><description>Recent content in Aufgaben on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/1.5-aufgaben/index.xml" rel="self" type="application/rss+xml"/><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Aufgaben 1 # Blöcke benötigt: Bewegung-Block
+Verbal: Fahre 100cm geradeaus und stoppe
+Ablauf Start
+fahre 100 cm vorwärts
+Stopp
+Aufgabe 2 # Blöcke benötigt: Bewegung-Block
+Verbal: Fahre 100cm geradeaus und dreh dich um und fahre 50 cm zurück
+Ablauf Start
+fahre 100 cm vorwärts
+drehe dich um 180°
+fahre 50 cm vorwärts
+Stopp
+Aufgabe 3 # Blöcke benötigt: Bewegung-Block, Klang-Block
+Verbal: Fahre 100cm geradeaus spiele einen Ton ab und fahre 50 cm zurück.</description></item><item><title>2. Aufgabe:</title><link>/1.5-aufgaben/aufgaben/aufgabe2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2.html</guid><description>In Arbeit</description></item></channel></rss>
