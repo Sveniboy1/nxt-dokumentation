@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NXT-Dokumentation</title><link>/</link><description>Recent content on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Aufgaben 1 # Blöcke benötigt: Bewegung-Block
-Verbal: Fahre 100cm geradeaus und stoppe
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NXT-Dokumentation</title><link>/</link><description>Recent content on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Klicke auf die Blöcke um dessen Dokumentation aufzurufen! Aufgaben 1 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus mit 75 % und danach 10 Umdrehungen mit 100 % Leistung.
 Ablauf Start
-fahre 100 cm vorwärts
+fahre 10 Umdrehungen vorwärts
 Stopp
-Aufgabe 2 # Blöcke benötigt: Bewegung-Block
-Verbal: Fahre 100cm geradeaus und dreh dich um und fahre 50 cm zurück
+Aufgabe 2 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen zurück zur Startposition.
 Ablauf Start
-fahre 100 cm vorwärts
+fahre 10 Umdrehungen vorwärts
 drehe dich um 180°
+fahre 10 Umdrehungen vorwärts</description></item><item><title>2. Aufgabe: Roomba</title><link>/1.5-aufgaben/aufgaben/aufgabe2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2.html</guid><description> Versuchsaufbau # Du baust einen Romba Roboter. Dein Roboter soll Kleinteile aufsammeln (vor sich hin schieben) von einem 30 x 30 cm großen bereich. Dafür soll er möglichst wenige Schritte benötigen und keine Teile Verlieren.
+Aufgabe 1 # Blöcke benötigt: Bewegung-Block
+Verbal:
+Ablauf Start [
 fahre 50 cm vorwärts
-Stopp
-Aufgabe 3 # Blöcke benötigt: Bewegung-Block, Klang-Block
-Verbal: Fahre 100cm geradeaus spiele einen Ton ab und fahre 50 cm zurück.</description></item><item><title>2. Aufgabe:</title><link>/1.5-aufgaben/aufgaben/aufgabe2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2.html</guid><description>In Arbeit</description></item><item><title>Berührungssensor</title><link>/4.-sensor-bl%C3%B6cke/1.-ber%C3%BChrungssensor.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4.-sensor-bl%C3%B6cke/1.-ber%C3%BChrungssensor.html</guid><description>Beschreibung # Der Berührungsensor
+dreh dich um 90°
+] 4 mal
+Stopp</description></item><item><title>3. Aufgabe: Ultraschallhu</title><link>/1.5-aufgaben/aufgaben/aufgabe3.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe3.html</guid><description> Versuchsaufbau #</description></item><item><title>Berührungssensor</title><link>/4.-sensor-bl%C3%B6cke/1.-ber%C3%BChrungssensor.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4.-sensor-bl%C3%B6cke/1.-ber%C3%BChrungssensor.html</guid><description>Beschreibung # Der Berührungsensor
 Funktionen # Port: # Unter Port: kann einer der 4 Sensor-Anschlüsse ausgewählt werden. Der Block funktioniert nur, wenn der richtige Anschluss ausgewählt ist. Ansonsten passiert nichts. Standartmäßig ist der Berührungsensor am Port 1 angeschlossen.
 Aktion: # Unter Aktion: kann zwischen Druck, Freigabe und Stoß gewählt werden.Das Logiksignal des Output-Ja/Nein ist positiv, wenn die mit Häckchen makierte Aktion eintritt.
 Druck ist positiv, wenn der Knopf gedrückt wird und bleibt für positiv solange er gedrückt wird.</description></item><item><title>Bewegung</title><link>/2.-allgemeine-bl%C3%B6cke/1.-bewegung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2.-allgemeine-bl%C3%B6cke/1.-bewegung.html</guid><description>Beschreibung # Der Bewegung-Block kann anders als der Motor-Block mehrere Motoren gleichzeitig ansteuern und dient hauptsächlich zur Fortbewegung des Roboters.
