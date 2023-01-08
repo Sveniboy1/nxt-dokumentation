@@ -7,28 +7,39 @@ categories: ["Einleitung"]
 tags: ["Content management"]
 ---
 
+{{< alert
+    type="info"
+>}}
+Klicke auf die Blöcke um dessen Dokumentation aufzurufen!
+{{< /alert >}}
+
+
+
 # Aufgaben 1
 
-Blöcke benötigt: [Bewegung-Block](/2.-allgemeine-blöcke/1.-bewegung.html)
+**Blöcke benötigt:** [![Bewegung-Block](/images/blocklogo/Bewegung.png)](/2.-allgemeine-blöcke/1.-bewegung.html)
 
-Verbal: Fahre 100cm geradeaus und stoppe
+
+Verbal: Fahre 10 Umdrehungen geradeaus mit 75 % und danach 10 Umdrehungen mit 100 % Leistung.
 
 {{< collapsible
     title="Ablauf"
 >}}
 - Start
 
-- fahre 100 cm vorwärts
+- fahre 10 Umdrehungen vorwärts
 
 - Stopp
+
+
 
 {{< /collapsible >}}
 
 # Aufgabe 2
 
-Blöcke benötigt: [Bewegung-Block](/2.-allgemeine-blöcke/1.-bewegung.html)
+**Blöcke benötigt:** [![Bewegung-Block](/images/blocklogo/Bewegung.png)](/2.-allgemeine-blöcke/1.-bewegung.html)
 
-Verbal: Fahre 100cm geradeaus und dreh dich um und fahre 50 cm zurück
+Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen zurück zur Startposition.
 
 {{< collapsible
     title="Ablauf"
@@ -37,11 +48,11 @@ Verbal: Fahre 100cm geradeaus und dreh dich um und fahre 50 cm zurück
 
 - Start
 
-- fahre 100 cm vorwärts
+- fahre 10 Umdrehungen vorwärts
 
 - drehe dich um 180°
 
-- fahre 50 cm vorwärts
+- fahre 10 Umdrehungen vorwärts
 
 - Stopp
 
@@ -51,9 +62,15 @@ Verbal: Fahre 100cm geradeaus und dreh dich um und fahre 50 cm zurück
 
 # Aufgabe 3
 
-Blöcke benötigt: [Bewegung-Block](/2.-allgemeine-blöcke/1.-bewegung.html), [Klang-Block](/2.-allgemeine-blöcke/3.-klang.html)
+**Blöcke benötigt:** 
 
-Verbal: Fahre 100cm geradeaus spiele einen Ton ab und fahre 50 cm zurück.
+| [Bewegung-Block](/2.-allgemeine-blöcke/1.-bewegung.html) | [Klang-Block](/2.-allgemeine-blöcke/3.-klang.html) |
+| ----- | ----------- |
+| [![Bewegung-Block](/images/blocklogo/Bewegung.png)](/2.-allgemeine-blöcke/1.-bewegung.html)     | [![Klang-Block](/images/blocklogo/Klang.png)](/2.-allgemeine-blöcke/3.-klang.html)     |
+
+
+
+Verbal: Ergänze das Programm aus Aufgabe 2, um ein Geräuch, dass abgespielt wird nachdem er seinen Wendepunkt erreicht hat.
 
 {{< collapsible
     title="Ablauf"
@@ -73,52 +90,4 @@ Verbal: Fahre 100cm geradeaus spiele einen Ton ab und fahre 50 cm zurück.
 {{< /collapsible >}}
 
 
-
-# Aufgabe 4
-
-Blöcke benötigt: [Bewegung-Block](/2.-allgemeine-blöcke/1.-bewegung.html)
-
-Verbal: Fahre in einem 50 cm quadrat.
-
-{{< collapsible
-    title="Ablauf"
->}}
-
-- Start
-[
-
-- fahre 50 cm vorwärts 
-
-- dreh dich um 90°
-
-] 4 mal
-
-- Stopp
-
-{{< /collapsible >}}
-
-# Aufgabe 5
-
-Blöcke benötigt: [Bewegung-Block](/2.-allgemeine-blöcke/1.-bewegung.html), [Anzeige-Block](/2.-allgemeine-blöcke/4.-anzeige.html)
-
-Verbal: Fahre in einem 50 cm quadrat und zeig auf dem Display an an welcher Kante der Roboter sich befindet.
-
-{{< collapsible
-    title="Ablauf"
->}}
-
-- Start
-[
-
-- fahre 50 cm vorwärts 
-
-- dreh dich um 90°
-
-- zeige auf dem Display " 1. Kante fertig ", danach " 2. Kante fertig " etc.
-
-] 4 mal
-
-- Stopp
-
-{{< /collapsible >}}
 
