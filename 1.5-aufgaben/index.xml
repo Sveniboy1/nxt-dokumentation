@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aufgaben on NXT-Dokumentation</title><link>/1.5-aufgaben.html</link><description>Recent content in Aufgaben on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/1.5-aufgaben/index.xml" rel="self" type="application/rss+xml"/><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Klicke auf die Blöcke um dessen Dokumentation aufzurufen! Aufgaben 1 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus mit 75 % und danach 10 Umdrehungen mit 100 % Leistung.
-Ablauf Start
-fahre 10 Umdrehungen vorwärts
-Stopp
-Aufgabe 2 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen zurück zur Startposition.
-Ablauf Start
-fahre 10 Umdrehungen vorwärts
-drehe dich um 180°
-fahre 10 Umdrehungen vorwärts</description></item><item><title>2. Aufgabe: Roomba</title><link>/1.5-aufgaben/aufgaben/aufgabe2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2.html</guid><description> Versuchsaufbau # Du baust einen Romba Roboter. Dein Roboter soll Kleinteile aufsammeln (vor sich hin schieben) von einem 30 x 30 cm großen bereich. Dafür soll er möglichst wenige Schritte benötigen und keine Teile Verlieren.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aufgaben on NXT-Dokumentation</title><link>/1.5-aufgaben.html</link><description>Recent content in Aufgaben on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/1.5-aufgaben/index.xml" rel="self" type="application/rss+xml"/><item><title>Erstes Programm</title><link>/1.5-aufgaben/aufgaben/erstes_programm.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/erstes_programm.html</guid><description>Software Instalieren # Die Software kann auf dieser Website heruntergeladen und anschließend Installiert werden. https://education.lego.com/de-de/downloads/retiredproducts/nxt/software Genauere Schritte füge ich demnächst hinzu.
+Programm erstellen # Software öffnen # Um die Software zu öffnen muss einfach nur auf das Software Icon gedoppelklickt werden.
+Programm erstellen # Um ein neues Programm zu erstellen muss man im Grunde nur auf Go drücken. Ich empfehle allerdings die Programme sinnvoll zu bennenen, damit man den Überblick über die Programme nicht verliert.</description></item><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Klicke auf die Blöcke um dessen Dokumentation aufzurufen! Aufgaben 1 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus mit 75 % und danach 10 Umdrehungen mit 100 % Leistung.
+Ablauf Aufgabe 2 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen zurück zur Startposition.
+Ablauf Aufgabe 3 # Blöcke benötigt:
+Verbal: Ergänze das Programm aus Aufgabe 2, um ein Geräuch, dass abgespielt wird nachdem er seinen Wendepunkt erreicht hat.</description></item><item><title>2. Aufgabe:</title><link>/1.5-aufgaben/aufgaben/aufgabe2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2.html</guid><description> Aufgabe 1 # Blöcke benötigt: Bewegung-Block
+Verbal: Lasse den Roboter Gerade aus fahren bis er mit seiner Stoßstange gegen etwas fährt und den Drucksensor auslöst. Wenn der Drucksensor ausgelöst wurde Stoppe den Roboter.
+Ablauf</description></item><item><title>3. Aufgabe: Ultraschallhu</title><link>/1.5-aufgaben/aufgaben/aufgabe3.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe3.html</guid><description> Einleitung # Viele Roomba benutzen Ultraschall um Gegenständen auszuweichen. Der Roboter hat auch einen Ultraschall-Sensor. Dieser Ultraschall kann die Entfernung zu Gegenständen vor ihm messen. Ziel ist diese Mesungen zum ausweichen zu verwenden.
 Aufgabe 1 # Blöcke benötigt: Bewegung-Block
 Verbal:
 Ablauf Start [
 fahre 50 cm vorwärts
 dreh dich um 90°
 ] 4 mal
-Stopp</description></item><item><title>3. Aufgabe: Ultraschallhu</title><link>/1.5-aufgaben/aufgaben/aufgabe3.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe3.html</guid><description> Versuchsaufbau #</description></item></channel></rss>
+Stopp</description></item><item><title>5. Aufgabe:</title><link>/1.5-aufgaben/aufgaben/aufgabe2-copy.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2-copy.html</guid><description> Versuchsaufbau # Du baust einen Romba Roboter. Dein Roboter soll Kleinteile aufsammeln (vor sich hin schieben) von einem 30 x 30 cm großen bereich. Dafür soll er möglichst wenige Schritte benötigen und keine Teile Verlieren.
+Aufgabe 1 # Blöcke benötigt: Bewegung-Block
+Verbal:
+Ablauf Start [
+fahre 50 cm vorwärts
+dreh dich um 90°
+] 4 mal
+Stopp</description></item></channel></rss>

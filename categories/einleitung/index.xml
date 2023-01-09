@@ -1,29 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Einleitung on NXT-Dokumentation</title><link>/categories/einleitung.html</link><description>Recent content in Einleitung on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/categories/einleitung/index.xml" rel="self" type="application/rss+xml"/><item><title>Einleitung</title><link>/1.-einleitung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.-einleitung.html</guid><description>Einleitung # Hier kommt bald was hin.
-Einleitung
-Erstes Programm
-Datentypen</description></item><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Klicke auf die Blöcke um dessen Dokumentation aufzurufen! Aufgaben 1 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus mit 75 % und danach 10 Umdrehungen mit 100 % Leistung.
-Ablauf Start
-fahre 10 Umdrehungen vorwärts
-Stopp
-Aufgabe 2 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen zurück zur Startposition.
-Ablauf Start
-fahre 10 Umdrehungen vorwärts
-drehe dich um 180°
-fahre 10 Umdrehungen vorwärts</description></item><item><title>2. Aufgabe: Roomba</title><link>/1.5-aufgaben/aufgaben/aufgabe2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2.html</guid><description> Versuchsaufbau # Du baust einen Romba Roboter. Dein Roboter soll Kleinteile aufsammeln (vor sich hin schieben) von einem 30 x 30 cm großen bereich. Dafür soll er möglichst wenige Schritte benötigen und keine Teile Verlieren.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Einleitung on NXT-Dokumentation</title><link>/categories/einleitung.html</link><description>Recent content in Einleitung on NXT-Dokumentation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/categories/einleitung/index.xml" rel="self" type="application/rss+xml"/><item><title>Allgemein Themen</title><link>/1.-einleitung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.-einleitung.html</guid><description>Einleitung # Hier kommt bald was hin.
+Allgemein Themen
+Datentypen</description></item><item><title>Erstes Programm</title><link>/1.5-aufgaben/aufgaben/erstes_programm.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/erstes_programm.html</guid><description>Software Instalieren # Die Software kann auf dieser Website heruntergeladen und anschließend Installiert werden. https://education.lego.com/de-de/downloads/retiredproducts/nxt/software Genauere Schritte füge ich demnächst hinzu.
+Programm erstellen # Software öffnen # Um die Software zu öffnen muss einfach nur auf das Software Icon gedoppelklickt werden.
+Programm erstellen # Um ein neues Programm zu erstellen muss man im Grunde nur auf Go drücken. Ich empfehle allerdings die Programme sinnvoll zu bennenen, damit man den Überblick über die Programme nicht verliert.</description></item><item><title>1. Aufgabe: Fahrtest</title><link>/1.5-aufgaben/aufgaben/aufgabe1.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe1.html</guid><description>Klicke auf die Blöcke um dessen Dokumentation aufzurufen! Aufgaben 1 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus mit 75 % und danach 10 Umdrehungen mit 100 % Leistung.
+Ablauf Aufgabe 2 # Blöcke benötigt: Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen zurück zur Startposition.
+Ablauf Aufgabe 3 # Blöcke benötigt:
+Verbal: Ergänze das Programm aus Aufgabe 2, um ein Geräuch, dass abgespielt wird nachdem er seinen Wendepunkt erreicht hat.</description></item><item><title>2. Aufgabe:</title><link>/1.5-aufgaben/aufgaben/aufgabe2.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2.html</guid><description> Aufgabe 1 # Blöcke benötigt: Bewegung-Block
+Verbal: Lasse den Roboter Gerade aus fahren bis er mit seiner Stoßstange gegen etwas fährt und den Drucksensor auslöst. Wenn der Drucksensor ausgelöst wurde Stoppe den Roboter.
+Ablauf</description></item><item><title>3. Aufgabe: Ultraschallhu</title><link>/1.5-aufgaben/aufgaben/aufgabe3.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe3.html</guid><description> Einleitung # Viele Roomba benutzen Ultraschall um Gegenständen auszuweichen. Der Roboter hat auch einen Ultraschall-Sensor. Dieser Ultraschall kann die Entfernung zu Gegenständen vor ihm messen. Ziel ist diese Mesungen zum ausweichen zu verwenden.
 Aufgabe 1 # Blöcke benötigt: Bewegung-Block
 Verbal:
 Ablauf Start [
 fahre 50 cm vorwärts
 dreh dich um 90°
 ] 4 mal
-Stopp</description></item><item><title>3. Aufgabe: Ultraschallhu</title><link>/1.5-aufgaben/aufgaben/aufgabe3.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe3.html</guid><description> Versuchsaufbau #</description></item><item><title>Aufgaben</title><link>/1.5-aufgaben.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben.html</guid><description>Aufgaben # Hier kommt bald was hin.
+Stopp</description></item><item><title>5. Aufgabe:</title><link>/1.5-aufgaben/aufgaben/aufgabe2-copy.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben/aufgaben/aufgabe2-copy.html</guid><description> Versuchsaufbau # Du baust einen Romba Roboter. Dein Roboter soll Kleinteile aufsammeln (vor sich hin schieben) von einem 30 x 30 cm großen bereich. Dafür soll er möglichst wenige Schritte benötigen und keine Teile Verlieren.
+Aufgabe 1 # Blöcke benötigt: Bewegung-Block
+Verbal:
+Ablauf Start [
+fahre 50 cm vorwärts
+dreh dich um 90°
+] 4 mal
+Stopp</description></item><item><title>Aufgaben</title><link>/1.5-aufgaben.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.5-aufgaben.html</guid><description>Aufgaben # Hier kommt bald was hin.
 Aufgaben
+Erstes Programm
 1. Aufgabe: Fahrtest
-2. Aufgabe: Roomba
-3. Aufgabe: Ultraschallhu</description></item><item><title>Bewegung</title><link>/2.-allgemeine-bl%C3%B6cke/1.-bewegung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2.-allgemeine-bl%C3%B6cke/1.-bewegung.html</guid><description>Beschreibung # Der Bewegung-Block kann anders als der Motor-Block mehrere Motoren gleichzeitig ansteuern und dient hauptsächlich zur Fortbewegung des Roboters.
+2. Aufgabe: 3. Aufgabe: Ultraschallhu
+5. Aufgabe:</description></item><item><title>Bewegung</title><link>/2.-allgemeine-bl%C3%B6cke/1.-bewegung.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2.-allgemeine-bl%C3%B6cke/1.-bewegung.html</guid><description>Beschreibung # Der Bewegung-Block kann anders als der Motor-Block mehrere Motoren gleichzeitig ansteuern und dient hauptsächlich zur Fortbewegung des Roboters.
 Funktionen # Port: # Unter Port: kann zwischen den Motoren A, B und C gewählt werden. Motor A, B und C entsprechen den Anschlüssen A, B und C am Roboter. Es muss mindestens 1 Motor ausgewählt sein, es können aber bis zu 3 Motoren gleichzeitig ausgewählt werden.
-Standartmäßig ist Motor-B in Fahrtrichtung rechts und Motor-C links.</description></item><item><title>Erstes Programm</title><link>/1.-einleitung/erstes_programm.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.-einleitung/erstes_programm.html</guid><description>Software Instalieren # Die Software kann auf dieser Website heruntergeladen und anschließend Installiert werden. https://education.lego.com/de-de/downloads/retiredproducts/nxt/software Genauere Schritte füge ich demnächst hinzu.
-Programm erstellen # Software öffnen # Um die Software zu öffnen muss einfach nur auf das Software Icon gedoppelklickt werden.
-Programm erstellen # Um ein neues Programm zu erstellen muss man im Grunde nur auf Go drücken. Ich empfehle allerdings die Programme sinnvoll zu bennenen, damit man den Überblick über die Programme nicht verliert.</description></item><item><title>Datentypen</title><link>/1.-einleitung/datentypen.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.-einleitung/datentypen.html</guid><description>Datentypen # Logikwert # Der Datentyp Logikwert ist immer entweder Ja oder Nein bzw. Wahr oder Falsch, 1 oder 0. Er wird häufig verwendet um einfache Entscheidungen, wie rückwärts oder vorwärts, zu trefen.
+Standartmäßig ist Motor-B in Fahrtrichtung rechts und Motor-C links.</description></item><item><title>Datentypen</title><link>/1.-einleitung/datentypen.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/1.-einleitung/datentypen.html</guid><description>Datentypen # Logikwert # Der Datentyp Logikwert ist immer entweder Ja oder Nein bzw. Wahr oder Falsch, 1 oder 0. Er wird häufig verwendet um einfache Entscheidungen, wie rückwärts oder vorwärts, zu trefen.
 Im Programm sind Logikwerte durch ein grünes Kabel gekennzeichnet.
 Zahl # Der Datentyp Zahl kann alle Zahlen von 3E+38 bis -3E+38 verwenden und auch Dezimalzahlen darstellen. Als Perspektive 3E+38 ist ausgeschrieben 99,999,999,999,999,997,748,809,823,456,034,029,568. Wichtig ist aber zu beachten, dass viele Inputs nur Zahlen in einem gewissen Zahlenbereich akzeptieren.</description></item></channel></rss>
