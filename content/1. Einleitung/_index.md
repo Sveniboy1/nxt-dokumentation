@@ -1,6 +1,6 @@
 ---
 weight: 2000
-title: "Einleitung"
+title: "Allgemein Themen"
 description: "Descriptions and examples of the theme functionalities."
 titleIcon: "fa-solid fa-cubes"
 categories: ["Einleitung"]

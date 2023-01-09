@@ -1,5 +1,5 @@
 ---
-weight: 3000
+weight: 2000
 title: "Erstes Programm"
 description: ""
 titleIcon: "fa-solid fa-right-to-bracket fa-rotate-90"

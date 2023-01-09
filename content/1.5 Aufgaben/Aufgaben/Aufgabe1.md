@@ -25,13 +25,8 @@ Verbal: Fahre 10 Umdrehungen geradeaus mit 75 % und danach 10 Umdrehungen mit 10
 {{< collapsible
     title="Ablauf"
 >}}
-- Start
 
-- fahre 10 Umdrehungen vorwärts
-
-- Stopp
-
-
+![Aufgabe1.1.png](/images/versuchsaufbau/Aufgabe%201.1.png)
 
 {{< /collapsible >}}
 
@@ -45,16 +40,7 @@ Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen
     title="Ablauf"
 >}}
 
-
-- Start
-
-- fahre 10 Umdrehungen vorwärts
-
-- drehe dich um 180°
-
-- fahre 10 Umdrehungen vorwärts
-
-- Stopp
+![Aufgabe1.1.png](/images/versuchsaufbau/Aufgabe%201.2.png)
 
 {{< /collapsible >}}
 
@@ -64,7 +50,8 @@ Verbal: Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen
 
 **Blöcke benötigt:** 
 
-| [Bewegung-Block](/2.-allgemeine-blöcke/1.-bewegung.html) | [Klang-Block](/2.-allgemeine-blöcke/3.-klang.html) |
+
+|  |  |
 | ----- | ----------- |
 | [![Bewegung-Block](/images/blocklogo/Bewegung.png)](/2.-allgemeine-blöcke/1.-bewegung.html)     | [![Klang-Block](/images/blocklogo/Klang.png)](/2.-allgemeine-blöcke/3.-klang.html)     |
 
@@ -77,15 +64,7 @@ Verbal: Ergänze das Programm aus Aufgabe 2, um ein Geräuch, dass abgespielt wi
 >}}
 
 
-- Start
-
-- fahre 100 cm vorwärts
-
-- spiele den "Good Job" ton ab
-
-- fahre 50 cm rückwärts
-
-- Stopp
+![Aufgabe1.1.png](/images/versuchsaufbau/Aufgabe%201.3.png)
 
 {{< /collapsible >}}
 
