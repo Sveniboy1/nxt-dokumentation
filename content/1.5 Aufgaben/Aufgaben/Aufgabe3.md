@@ -1,6 +1,6 @@
 ---
 weight: 2001
-title: "3. Aufgabe: Ultraschallhu"
+title: "3. Aufgabe: Ultraschall"
 description: "Descriptions and examples of the theme functionalities."
 titleIcon: "fa-solid fa-cubes"
 categories: ["Einleitung"]
@@ -21,17 +21,6 @@ Verbal:
     title="Ablauf"
 >}}
 
-- Start
-
-[
-
-- fahre 50 cm vorwärts 
-
-- dreh dich um 90°
-
-] 4 mal
-
-- Stopp
 
 {{< /collapsible >}}
 
