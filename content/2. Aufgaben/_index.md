@@ -1,17 +1,12 @@
 ---
-weight: 2001
+weight: 2004
 title: "Aufgaben"
 description: "Descriptions and examples of the theme functionalities."
 titleIcon: "fa-solid fa-cubes"
-categories: ["Einleitung"]
-tags: ["Content management"]
+categories: ["Aufgaben"]
 ---
 
 # Aufgaben
 
 Hier kommt bald was hin.
 
-{{< treeview
-    rootpath="/1.5 Aufgaben"
-    display="tree"
-/>}}
