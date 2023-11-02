@@ -1,6 +1,6 @@
 ---
-weight: 2001
-title: "Meistern des Licht/Helligkeits Sensors"
+weight: 2005
+title: "Geräusche-Sensor"
 description: ""
 titleIcon: "fa-solid fa-cubes"
 categories: ["Basic"]

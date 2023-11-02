@@ -1,6 +1,6 @@
 ---
 weight: 2001
-title: "1. Aufgabe: Fahren"
+title: "Fahren"
 description: "."
 titleIcon: "fa-solid fa-cubes"
 categories: ["Einleitung"]
@@ -34,7 +34,7 @@ Klicke auf die Blöcke um dessen Dokumentation aufzurufen!
 
 **Blöcke benötigt:** [![Bewegung-Block](/images/blocklogo/Bewegung.png)](/2.-allgemeine-blöcke/1.-bewegung.html)
 
-**Verbal:** Fahre 10 Umdrehungen geradeaus und dreh dich um und fahre 10 Umdrehungen zurück zur Startposition.
+**Verbal:** Fahre 10 Umdrehungen geradeaus und fahre 10 Umdrehungen zurück zur Startposition.
 
 {{< collapsible
     title="Ablauf"
@@ -57,7 +57,7 @@ Klicke auf die Blöcke um dessen Dokumentation aufzurufen!
 
 
 
-**Verbal:** Ergänze das Programm aus Aufgabe 2, um ein Geräuch, dass abgespielt wird nachdem er seinen Wendepunkt erreicht hat.
+**Verbal:** Ergänze das Programm aus Aufgabe 2, um ein Geräuch, dass abgespielt wird nachdem er seinen Richtungswechselpunkt erreicht hat.
 
 {{< collapsible
     title="Ablauf"
